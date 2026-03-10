@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bedrock-agentcore": "^0.2.0",
+    "strands-agents": "^0.0.1"
+  }
+}
